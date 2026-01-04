@@ -1,6 +1,7 @@
 
   {
       "name": "Pokedex App",
+    "homepage": "https://alkemistdesign.github.io/PokedexUI/",
       "version": "0.1.0",
       "private": true,
       "dependencies": {
