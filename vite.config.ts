@@ -5,7 +5,7 @@
 
   export default defineConfig({
     plugins: [react()],
-    base:"/Pokedexui",
+    base:"/PokedexUI",
     resolve: {
       extensions: ['.js', '.jsx', '.ts', '.tsx', '.json'],
       alias: {
